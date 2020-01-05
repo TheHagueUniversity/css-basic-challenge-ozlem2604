@@ -109,9 +109,20 @@ header {
 /* Work Experience
 ------------------------------------*/
 .work-experience {
+  margin: 0px 24px;
   background: lightblue;
+ 
 }
 
+.work-experience h2{
+  color: maroon;
+  padding-top: 64px;
+}
+
+.work-experience h3 {
+  color: purple;
+  margin-top: 0px;
+}
 
 
 /* Education
